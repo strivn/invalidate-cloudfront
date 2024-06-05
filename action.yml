@@ -1,0 +1,6 @@
+name: "Invalidate Cloudfront"
+description: "Invalidate a cloudfront distribution"
+author: strivn
+runs:
+  using: docker
+  image: Dockerfile
